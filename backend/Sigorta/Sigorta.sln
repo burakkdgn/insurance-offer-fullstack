@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sigorta-teklif-WebApi", "sigorta-teklif-WebApi\sigorta-teklif-WebApi.csproj", "{7A313A81-6FB6-4605-BEB3-4E4DFEF0D537}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sigorta-teklif.Entity", "sigorta-teklif.Entity\sigorta-teklif.Entity.csproj", "{8124394A-3262-49C8-844A-0F737D00DD17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sigorta-teklif.DataAccess", "sigorta-teklif.DataAccess\sigorta-teklif.DataAccess.csproj", "{71E9B9EF-3B52-41DF-9022-F9C333BA4AB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sigorta-teklif.Business", "sigorta-teklif.Business\sigorta-teklif.Business.csproj", "{55D642FF-9B76-4E6F-85D4-63ADDB41AD3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sigorta-teklif.DTO", "sigorta-teklif.DTO\sigorta-teklif.DTO.csproj", "{F6A4ADEF-AB91-49D5-AD66-A583798A8B09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sigorta-teklif.Core", "sigorta-teklif.Core\sigorta-teklif.Core.csproj", "{3F507540-B4A4-46B7-9A2A-D6DCF4A2CBED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A313A81-6FB6-4605-BEB3-4E4DFEF0D537}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A313A81-6FB6-4605-BEB3-4E4DFEF0D537}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A313A81-6FB6-4605-BEB3-4E4DFEF0D537}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A313A81-6FB6-4605-BEB3-4E4DFEF0D537}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8124394A-3262-49C8-844A-0F737D00DD17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8124394A-3262-49C8-844A-0F737D00DD17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8124394A-3262-49C8-844A-0F737D00DD17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8124394A-3262-49C8-844A-0F737D00DD17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71E9B9EF-3B52-41DF-9022-F9C333BA4AB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71E9B9EF-3B52-41DF-9022-F9C333BA4AB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71E9B9EF-3B52-41DF-9022-F9C333BA4AB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71E9B9EF-3B52-41DF-9022-F9C333BA4AB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55D642FF-9B76-4E6F-85D4-63ADDB41AD3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55D642FF-9B76-4E6F-85D4-63ADDB41AD3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55D642FF-9B76-4E6F-85D4-63ADDB41AD3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55D642FF-9B76-4E6F-85D4-63ADDB41AD3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6A4ADEF-AB91-49D5-AD66-A583798A8B09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6A4ADEF-AB91-49D5-AD66-A583798A8B09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6A4ADEF-AB91-49D5-AD66-A583798A8B09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6A4ADEF-AB91-49D5-AD66-A583798A8B09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F507540-B4A4-46B7-9A2A-D6DCF4A2CBED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F507540-B4A4-46B7-9A2A-D6DCF4A2CBED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F507540-B4A4-46B7-9A2A-D6DCF4A2CBED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F507540-B4A4-46B7-9A2A-D6DCF4A2CBED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

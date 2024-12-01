@@ -1,0 +1,15 @@
+C:\Users\zeynep.gungor\Desktop\sigorta-proje\backend\Sigorta\sigorta-teklif.Entity\bin\Debug\net8.0\sigorta-teklif.Entity.deps.json
+C:\Users\zeynep.gungor\Desktop\sigorta-proje\backend\Sigorta\sigorta-teklif.Entity\bin\Debug\net8.0\sigorta-teklif.Entity.dll
+C:\Users\zeynep.gungor\Desktop\sigorta-proje\backend\Sigorta\sigorta-teklif.Entity\bin\Debug\net8.0\sigorta-teklif.Entity.pdb
+C:\Users\zeynep.gungor\Desktop\sigorta-proje\backend\Sigorta\sigorta-teklif.Entity\bin\Debug\net8.0\sigorta-teklif.Core.dll
+C:\Users\zeynep.gungor\Desktop\sigorta-proje\backend\Sigorta\sigorta-teklif.Entity\bin\Debug\net8.0\sigorta-teklif.Core.pdb
+C:\Users\zeynep.gungor\Desktop\sigorta-proje\backend\Sigorta\sigorta-teklif.Entity\obj\Debug\net8.0\sigorta-teklif.Entity.csproj.AssemblyReference.cache
+C:\Users\zeynep.gungor\Desktop\sigorta-proje\backend\Sigorta\sigorta-teklif.Entity\obj\Debug\net8.0\sigorta-teklif.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeynep.gungor\Desktop\sigorta-proje\backend\Sigorta\sigorta-teklif.Entity\obj\Debug\net8.0\sigorta-teklif.Entity.AssemblyInfoInputs.cache
+C:\Users\zeynep.gungor\Desktop\sigorta-proje\backend\Sigorta\sigorta-teklif.Entity\obj\Debug\net8.0\sigorta-teklif.Entity.AssemblyInfo.cs
+C:\Users\zeynep.gungor\Desktop\sigorta-proje\backend\Sigorta\sigorta-teklif.Entity\obj\Debug\net8.0\sigorta-teklif.Entity.csproj.CoreCompileInputs.cache
+C:\Users\zeynep.gungor\Desktop\sigorta-proje\backend\Sigorta\sigorta-teklif.Entity\obj\Debug\net8.0\sigorta-.914E27AE.Up2Date
+C:\Users\zeynep.gungor\Desktop\sigorta-proje\backend\Sigorta\sigorta-teklif.Entity\obj\Debug\net8.0\sigorta-teklif.Entity.dll
+C:\Users\zeynep.gungor\Desktop\sigorta-proje\backend\Sigorta\sigorta-teklif.Entity\obj\Debug\net8.0\refint\sigorta-teklif.Entity.dll
+C:\Users\zeynep.gungor\Desktop\sigorta-proje\backend\Sigorta\sigorta-teklif.Entity\obj\Debug\net8.0\sigorta-teklif.Entity.pdb
+C:\Users\zeynep.gungor\Desktop\sigorta-proje\backend\Sigorta\sigorta-teklif.Entity\obj\Debug\net8.0\ref\sigorta-teklif.Entity.dll

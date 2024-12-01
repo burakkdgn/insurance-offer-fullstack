@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "HekLAvvhnz8Aot9H9kCttvlW1j1RFvMW2o2PQKH6G5k=",
+  "Source": "sigorta-teklif-WebApi",
+  "BasePath": "_content/sigorta-teklif-WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

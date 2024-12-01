@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\sigorta-teklif-WebApi.props" />
+</Project>

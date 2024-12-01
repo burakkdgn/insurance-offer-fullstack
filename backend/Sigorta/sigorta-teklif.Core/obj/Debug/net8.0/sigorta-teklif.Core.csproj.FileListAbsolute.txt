@@ -1,0 +1,11 @@
+C:\Users\zeynep.gungor\Desktop\sigorta-proje\backend\Sigorta\sigorta-teklif.Core\bin\Debug\net8.0\sigorta-teklif.Core.deps.json
+C:\Users\zeynep.gungor\Desktop\sigorta-proje\backend\Sigorta\sigorta-teklif.Core\bin\Debug\net8.0\sigorta-teklif.Core.dll
+C:\Users\zeynep.gungor\Desktop\sigorta-proje\backend\Sigorta\sigorta-teklif.Core\bin\Debug\net8.0\sigorta-teklif.Core.pdb
+C:\Users\zeynep.gungor\Desktop\sigorta-proje\backend\Sigorta\sigorta-teklif.Core\obj\Debug\net8.0\sigorta-teklif.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeynep.gungor\Desktop\sigorta-proje\backend\Sigorta\sigorta-teklif.Core\obj\Debug\net8.0\sigorta-teklif.Core.AssemblyInfoInputs.cache
+C:\Users\zeynep.gungor\Desktop\sigorta-proje\backend\Sigorta\sigorta-teklif.Core\obj\Debug\net8.0\sigorta-teklif.Core.AssemblyInfo.cs
+C:\Users\zeynep.gungor\Desktop\sigorta-proje\backend\Sigorta\sigorta-teklif.Core\obj\Debug\net8.0\sigorta-teklif.Core.csproj.CoreCompileInputs.cache
+C:\Users\zeynep.gungor\Desktop\sigorta-proje\backend\Sigorta\sigorta-teklif.Core\obj\Debug\net8.0\sigorta-teklif.Core.dll
+C:\Users\zeynep.gungor\Desktop\sigorta-proje\backend\Sigorta\sigorta-teklif.Core\obj\Debug\net8.0\refint\sigorta-teklif.Core.dll
+C:\Users\zeynep.gungor\Desktop\sigorta-proje\backend\Sigorta\sigorta-teklif.Core\obj\Debug\net8.0\sigorta-teklif.Core.pdb
+C:\Users\zeynep.gungor\Desktop\sigorta-proje\backend\Sigorta\sigorta-teklif.Core\obj\Debug\net8.0\ref\sigorta-teklif.Core.dll

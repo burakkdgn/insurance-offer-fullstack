@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>sigorta_teklif.Business</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\sigorta-teklif.Core\sigorta-teklif.Core.csproj" />
+    <ProjectReference Include="..\sigorta-teklif.DataAccess\sigorta-teklif.DataAccess.csproj" />
+    <ProjectReference Include="..\sigorta-teklif.Entity\sigorta-teklif.Entity.csproj" />
+  </ItemGroup>
+	
+</Project>

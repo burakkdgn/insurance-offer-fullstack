@@ -1,0 +1,160 @@
+[
+  {
+    "ContainingType": "sigorta_teklif.WebApi.Controllers.ApplicantController",
+    "Method": "Add",
+    "RelativePath": "api/Applicant/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "sigorta_teklif.DTO.AddApplicantDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sigorta_teklif.WebApi.Controllers.ApplicantController",
+    "Method": "Delete",
+    "RelativePath": "api/Applicant/delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sigorta_teklif.WebApi.Controllers.ApplicantController",
+    "Method": "GetAll",
+    "RelativePath": "api/Applicant/getall",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sigorta_teklif.WebApi.Controllers.ApplicantController",
+    "Method": "GetById",
+    "RelativePath": "api/Applicant/getbyid/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sigorta_teklif.WebApi.Controllers.ApplicantController",
+    "Method": "Update",
+    "RelativePath": "api/Applicant/update/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "sigorta_teklif.DTO.UpdateApplicantDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sigorta_teklif.WebApi.Controllers.SigortaPolicyController",
+    "Method": "Add",
+    "RelativePath": "api/SigortaPolicy/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "policyDto",
+        "Type": "sigorta_teklif.DTO.SigortaPolicyDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sigorta_teklif.WebApi.Controllers.SigortaPolicyController",
+    "Method": "Delete",
+    "RelativePath": "api/SigortaPolicy/delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sigorta_teklif.WebApi.Controllers.SigortaPolicyController",
+    "Method": "GetAll",
+    "RelativePath": "api/SigortaPolicy/getall",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sigorta_teklif.WebApi.Controllers.SigortaPolicyController",
+    "Method": "GetById",
+    "RelativePath": "api/SigortaPolicy/getbyid/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "sigorta_teklif.WebApi.Controllers.SigortaPolicyController",
+    "Method": "Update",
+    "RelativePath": "api/SigortaPolicy/update/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "policyDto",
+        "Type": "sigorta_teklif.DTO.SigortaPolicyDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

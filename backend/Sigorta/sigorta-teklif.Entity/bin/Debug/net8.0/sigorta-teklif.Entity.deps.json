@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "sigorta-teklif.Entity/1.0.0": {
+        "dependencies": {
+          "sigorta-teklif.Core": "1.0.0"
+        },
+        "runtime": {
+          "sigorta-teklif.Entity.dll": {}
+        }
+      },
+      "sigorta-teklif.Core/1.0.0": {
+        "runtime": {
+          "sigorta-teklif.Core.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sigorta-teklif.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "sigorta-teklif.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
