@@ -35,7 +35,8 @@ Developed with **ASP.NET Core 8.0** using a **Code-First Approach**, the backend
 - **Entity Framework Code First**
 - **Repository Design Pattern**
 
----
+![Project Screenshots, images ]([https://raw.githubusercontent.com/username/repository/main/assets/image.png](https://github.com/burakkdgn/insurance-offer-fullstack/tree/main/assets))
+
 
 ## 🚀 Features
 - 🌐 Obtain travel health insurance quotes
